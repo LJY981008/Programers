@@ -1,9 +1,9 @@
-import makeprime.Solution;
+import weaponweight.Solution;
 
 public class Main {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        solution.solution(new int[]{1,2,3,4});
+        solution.solution(10, 3, 2);
 
     }
 }
